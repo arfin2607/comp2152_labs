@@ -1,8 +1,9 @@
+
 --- Game Outcome ---
 Winner: Monster
 Hero Level: 1
 Hero Experience: 0
-Hero Health: 0
-Hero Strength: 6
+Hero Health: 13
+Hero Strength: 10
 Total monsters killed: 0
 
